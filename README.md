@@ -65,13 +65,3 @@ I am a passionate **Full-Stack Web Developer** with experience in **Laravel** an
 ## 🚀 **Let's Build Something Awesome Together!**  
 💬 Feel free to reach out—I'm always open to new opportunities and collaborations.  
 
----
-
-### 🎨 **Bonus: Add Some Cool Badges!**  
-
-```md
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
