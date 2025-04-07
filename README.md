@@ -4,7 +4,8 @@
 🌍 **Portfolio:** [mdabutaher.netlify.app](https://mdabutaher.netlify.app)  
 📧 **Email:** [abutahercse3255@gmail.com](mailto:abutahercse3255@gmail.com)  
 💼 **LinkedIn:** [Md Abu Thaher](https://www.linkedin.com/in/md-abu-thaher/)  
-https://www.bing.com/ck/a?!&&p=b0cf7fde6f5cd2713648817957561d478c72e3804c21cd52c1fb6b5b7adbe24dJmltdHM9MTc0Mzg5NzYwMA&ptn=3&ver=2&hsh=4&fclid=265e1413-3df2-6850-0aaa-00ca3cf369f2&u=a1L2ltYWdlcy9zZWFyY2g_cT1naXRodWIraWNvbiZpZD0yMjVEQzkyREFFNUQ1N0FDQ0Y1Mjc3OEUxODQ4NTlGRDVDMjZBMUVFJkZPUk09SUFDRklS&ntb=1 **GitHub:** [AbuTaher06](https://github.com/AbuTaher06)  
+![GithubCatGIF (2)](https://github.com/user-attachments/assets/6a5738a0-c753-49ac-bb6d-162f977c14b6)
+ **GitHub:** [AbuTaher06](https://github.com/AbuTaher06)  
 
 ---
 
